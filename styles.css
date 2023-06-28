@@ -1,1 +1,84 @@
 /* Write your CSS here! */
+body{
+    background-color:#747972;
+    margin:8px;
+    display: block;
+}
+
+main{
+    background-color: #FDF0E9;
+}
+
+#linkArea{
+    background-color: #E4CDBF;
+}
+
+#mainHeading{
+    color:red;
+}
+
+.funParagraph{
+    color:green;
+}
+
+#styleForMainP{
+    font-family: 'Libre Baskerville';
+    margin: 50px,100px;
+    color: #20221f;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.boldCenteredHeader {
+    font-family: 'Oswald';
+    text-align: center;
+    color: #20221f;
+}
+
+figcaption{
+    text-align: center;
+    font-style: italic;
+    font-family: "Libre Baskerville";
+}
+
+h1{
+    color:white;
+    background-color: #747972;
+    font-family: 'Brittany Signature';
+    font-weight: normal;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+div {
+    font-family: 'Oswald';
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+
+a.navBar:link, a.navBar:visited {
+    background-color: #DDAE98;
+    color:white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Oswald';
+}
+
+a.navBar:hover {
+    background-color: #7b6257;
+}
+
+footer{
+    color:white;
+}
