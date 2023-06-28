@@ -1,8 +1,8 @@
 /* Write your CSS here! */
 body{
     background-color:#747972;
-    margin:8px;
-    display: block;
+    margin:"8px";
+    display:"block";
 }
 
 main{
